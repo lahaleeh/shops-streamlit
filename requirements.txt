@@ -1,0 +1,6 @@
+streamlit
+rapidfuzz
+arabic-reshaper
+python-bidi
+reportlab
+streamlit-aggrid
